@@ -2,7 +2,6 @@
 
 
 
-- 📫 How to reach me **atakuruk@gmail.com**
 ###
 
 <h2 align="left">Skills</h2>
@@ -51,8 +50,11 @@
   <a href="https://www.linkedin.com/in/atakrk/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://discordapp.com/users/290551074874720256" target="_blank">
+  <a href="discordapp.com/users/290551074874720256" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="atakuruk@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
 
